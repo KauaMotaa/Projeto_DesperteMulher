@@ -1,0 +1,184 @@
+{
+  "page": 2,
+  "lastPage": 3,
+  "questions": [
+    {
+      "title": "Você já registrou ocorrência policial ou pedido de medida protetiva envolvendo esse(a) mesmo(a) agressor(a)?",
+      "answers": [
+        {
+          "title": "Sim",
+          "score": 3
+        },
+        {
+          "title": "Não",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "title": "O(A) agressor(a) já descumpriu medida protetiva anteriormente?",
+      "answers": [
+        {
+          "title": "Sim",
+          "score": 5
+        },
+        {
+          "title": "Não",
+          "score": 0
+        },
+        {
+          "title": "Não sei",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "title": "As agressões ou ameaças se tornaram mais frequentes ou mais graves nos últimos meses?",
+      "answers": [
+        {
+          "title": "Sim",
+          "score": 5
+        },
+        {
+          "title": "Não",
+          "score": 0
+        },
+        {
+          "title": "Não sei",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "title": "O(A) agressor(a) faz uso abusivo de álcool, drogas ou medicamentos?",
+      "answers": [
+        {
+          "title": "Sim, de drogas ilícitas",
+          "score": 4
+        },
+        {
+          "title": "Sim, de álcool",
+          "score": 3
+        },
+        {
+          "title": "Sim, de medicamentos",
+          "score": 3
+        },
+        {
+          "title": "Não",
+          "score": 0,
+          "exclusive": true
+        },
+        {
+          "title": "Não sei",
+          "score": 1,
+          "exclusive": true
+        }
+      ],
+      "multiple": true
+    },
+    {
+      "title": "O(A) agressor(a) tem alguma doença mental comprovada por avaliação médica?",
+      "answers": [
+        {
+          "title": "Sim, e não faz uso de medicação",
+          "score": 4
+        },
+        {
+          "title": "Sim, e faz uso de medicação",
+          "score": 2
+        },
+        {
+          "title": "Não",
+          "score": 0
+        },
+        {
+          "title": "Não sei",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "title": "O(A) agressor(a) já tentou suicídio ou falou em suicidar-se?",
+      "answers": [
+        {
+          "title": "Sim",
+          "score": 4
+        },
+        {
+          "title": "Não",
+          "score": 0
+        },
+        {
+          "title": "Não sei",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "title": "O(A) agressor(a) já usou, ameaçou usar arma de fogo contra você ou tem fácil acesso a uma arma?",
+      "answers": [
+        {
+          "title": "Sim, usou",
+          "score": 5
+        },
+        {
+          "title": "Sim, ameaçou usar",
+          "score": 5
+        },
+        {
+          "title": "Tem fácil acesso",
+          "score": 4
+        },
+        {
+          "title": "Não",
+          "score": 0
+        },
+        {
+          "title": "Não sei",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "title": "O(A) agressor(a) já ameaçou ou agrediu seus filhos, familiares, amigos, colegas ou animais?",
+      "answers": [
+        {
+          "title": "Sim, filhos",
+          "score": 5
+        },
+        {
+          "title": "Sim, outros familiares",
+          "score": 4
+        },
+        {
+          "title": "Sim, amigos",
+          "score": 3
+        },
+        {
+          "title": "Sim, colegas de trabalho",
+          "score": 3
+        },
+        {
+          "title": "Sim, outras pessoas",
+          "score": 3
+        },
+        {
+          "title": "Sim, animais",
+          "score": 3
+        },
+        {
+          "title": "Não",
+          "score": 0,
+          "exclusive": true
+        },
+        {
+          "title": "Não sei",
+          "score": 1,
+          "exclusive": true
+        }
+      ],
+      "multiple": true
+    }
+  ]
+}

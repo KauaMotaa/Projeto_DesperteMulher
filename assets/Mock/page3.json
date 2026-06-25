@@ -1,0 +1,118 @@
+{
+  "page": 3,
+  "lastPage": 3,
+  "questions": [
+    {
+      "title": "Você se separou recentemente do(a) agressor(a), tentou ou manifestou intenção de se separar?",
+      "answers": [
+        {
+          "title": "Sim",
+          "score": 4
+        },
+        {
+          "title": "Não",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "title": "Você tem filhos?",
+      "answers": [
+        {
+          "title": "Sim, com o(a) agressor(a)",
+          "score": 3
+        },
+        {
+          "title": "Sim, de outro relacionamento",
+          "score": 2
+        },
+        {
+          "title": "Não",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "title": "Seu(s) filho(s) já presenciaram ato(s) de violência do(a) agressor(a) contra você?",
+      "answers": [
+        {
+          "title": "Sim",
+          "score": 4
+        },
+        {
+          "title": "Não",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "title": "Você sofreu algum tipo de violência durante a gravidez ou nos três meses após o parto?",
+      "answers": [
+        {
+          "title": "Sim",
+          "score": 4
+        },
+        {
+          "title": "Não",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "title": "Você está grávida ou teve bebê nos últimos 18 meses?",
+      "answers": [
+        {
+          "title": "Sim",
+          "score": 3
+        },
+        {
+          "title": "Não",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "title": "Você possui alguma deficiência ou doença que cause condição limitante ou de vulnerabilidade?",
+      "answers": [
+        {
+          "title": "Sim",
+          "score": 3
+        },
+        {
+          "title": "Não",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "title": "Você considera que mora em bairro, comunidade ou área rural de risco de violência?",
+      "answers": [
+        {
+          "title": "Sim",
+          "score": 3
+        },
+        {
+          "title": "Não",
+          "score": 0
+        },
+        {
+          "title": "Não sei",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "title": "Você se considera dependente financeiramente do(a) agressor(a)?",
+      "answers": [
+        {
+          "title": "Sim",
+          "score": 3
+        },
+        {
+          "title": "Não",
+          "score": 0
+        }
+      ]
+    }
+  ]
+}
